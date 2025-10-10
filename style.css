@@ -1,0 +1,11 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 14px;
+}
+.nav-link.active {
+  background-color: #e7f1ff;
+  font-weight: bold;
+}
+.table td, .table th {
+  vertical-align: middle;
+}
